@@ -1,1 +1,1 @@
-# blooging.github.io
+# blogging.github.io
